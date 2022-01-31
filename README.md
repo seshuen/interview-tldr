@@ -5,7 +5,7 @@ Following are short revision notes created to glance through before interviews. 
 ## Data Structures and Algorithms
 
 1. [Array](/dsa/array.md)
-2. Maps & Set
+2. [Maps & Set](/dsa/map-and-set.md)
 3. Stacks & Queue
 4. Linked List
 5. String
