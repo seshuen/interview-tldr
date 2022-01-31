@@ -14,7 +14,7 @@ _`add()`, `remove()`, `isEmpty()`, `peek()`_
 - [Implementation of Queue using map](#implementation-of-queue-using-map)
 - [Traverse through Stack](#traverse-through-stack)
 - [Traverse through Queue](#traverse-through-queue)
-- [Search in a Stack/Queue](#search-in-a-stack/queue)
+- [Search in a Stack/Queue](#search-in-a-stackqueue)
 - [Reverse a Stack](#reverse-a-stack)
 - [Reverse a Stack](#reverse-a-queue)
 - [Create Queue using two Stacks](#create-queue-using-two-stacks)

@@ -8,10 +8,10 @@
 - [Insert in a Binary Tree](#insert-in-a-binary-tree)
 - [Remove a node in a Binary Tree](#remove-a-node-in-a-binary-tree)
 - [Traversal of Tree](#traversal-of-tree)
-- [DFS & BFS in Tree](#dfs-&-bfs-in-tree)
-- [Depth/Height of a Tree](#depth/height-of-a-tree)
+- [DFS & BFS in Tree](#dfs--bfs-in-tree)
+- [Depth/Height of a Tree](#depthheight-of-a-tree)
 - [Implementing Graph in JS](#implementing-graph-in-js)
-- [DFS & BFS in Graph](#dfs-&-bfs-in-graph)
+- [DFS & BFS in Graph](#dfs--bfs-in-graph)
 
 ## Implementing a Binary Tree
 
