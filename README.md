@@ -7,7 +7,7 @@ Following are short revision notes created to glance through before interviews. 
 1. [Array](/dsa/array.md)
 2. [Maps & Set](/dsa/map-and-set.md)
 3. [Stacks & Queue](/dsa/stacks-and-queue.md)
-4. Linked List
+4. [Linked List](/dsa/linkedlist.md)
 5. String
 6. Tree & Graph
 7. Heap
