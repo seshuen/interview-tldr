@@ -9,7 +9,7 @@ Following are short revision notes created to glance through before interviews. 
 3. [Stacks & Queue](/dsa/stacks-and-queue.md)
 4. [Linked List](/dsa/linkedlist.md)
 5. [String](/dsa/string.md)
-6. Tree & Graph
+6. [Tree & Graph](/dsa/tree-and-graph.md)
 7. Heap
 8. Sorting & Search
 9. Bitmasking & Misc (Bonus)
